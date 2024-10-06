@@ -1,5 +1,5 @@
  const prank = document.getElementById("titulo");
 
- prank.textContent = "golazo";  
+ prank.textContent = "Te amo";  
  prank.style.color = "green";
  prank.style.fontSize = "34px"; 
